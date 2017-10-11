@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PiRover</string>
+    <string name="exit">Exit</string>
+    <string name="login">Login</string>
+    <string name="register">Register Here</string>
+    <string name="back">Back</string>
+    <string name="auto">Automatic</string>
+    <string name="manual">Manual</string>
+
+
+</resources>
